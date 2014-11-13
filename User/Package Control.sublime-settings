@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"CoffeeComplete Plus (Autocompletion)",
+		"CoffeeScriptHaml",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"IcedCoffeeScript",
+		"jQuery Snippets for Coffeescript",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-csslint",
+		"TrailingSpaces"
+	]
+}
